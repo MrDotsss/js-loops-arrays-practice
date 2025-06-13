@@ -1,0 +1,15 @@
+{
+  "name": "javascript-loops-arrays",
+  "version": "1.0.0",
+  "main": "script-text.spec.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.0.0"
+  }
+}
